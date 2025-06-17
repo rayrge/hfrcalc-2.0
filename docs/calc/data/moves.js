@@ -579,7 +579,6 @@ EK['Overheat'] = { bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3] };
 EK['Psycho Boost'] = { bp: 140, type: 'Psychic', recoil: [1, 4] };
 EK['Superpower'] = { bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true };
 EK['Bone Rush'] = { bp: 100, type: 'Ground' };
-EK['Eruption'] = { bp: 150, type: 'Fire', recoil: [1, 3] };
 var DPP_PATCH = {
     Absorb: { category: 'Special' },
     'Arm Thrust': { category: 'Physical' },

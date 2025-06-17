@@ -2856,10 +2856,10 @@ var EK_PATCH = {
         bs: { hp: 60, at: 55, df: 50, sa: 40, sd: 55, sp: 45 }
     },
     Venomoth: {
-        bs: { hp: 70, at: 65, df: 60, sa: 90, sd: 75, sp: 90 }
+        bs: { hp: 70, at: 70, df: 60, sa: 90, sd: 75, sp: 100 }
     },
     Diglett: {
-        bs: { hp: 10, at: 60, df: 25, sa: 35, sd: 45, sp: 95 }
+        bs: { hp: 10, at: 60, df: 25, sa: 35, sd: 45, sp: 100 }
     },
     Dugtrio: {
         bs: { hp: 35, at: 100, df: 50, sa: 50, sd: 70, sp: 120 }
@@ -3087,13 +3087,13 @@ var EK_PATCH = {
         bs: { hp: 70, at: 83, df: 62, sa: 95, sd: 85, sp: 105 }
     },
     Magmar: {
-        bs: { hp: 65, at: 95, df: 57, sa: 100, sd: 85, sp: 98 }
+        bs: { hp: 65, at: 100, df: 60, sa: 125, sd: 125, sp: 105 }
     },
     Pinsir: {
         bs: { hp: 65, at: 125, df: 100, sa: 55, sd: 70, sp: 85 }
     },
     Tauros: {
-        bs: { hp: 75, at: 100, df: 95, sa: 40, sd: 70, sp: 110 }
+        bs: { hp: 75, at: 100, df: 95, sa: 70, sd: 70, sp: 110 }
     },
     Magikarp: {
         bs: { hp: 20, at: 10, df: 55, sa: 15, sd: 20, sp: 80 }
@@ -3159,7 +3159,7 @@ var EK_PATCH = {
         bs: { hp: 91, at: 134, df: 95, sa: 100, sd: 100, sp: 80 }
     },
     Mewtwo: {
-        bs: { hp: 106, at: 120, df: 90, sa: 160, sd: 90, sp: 130 }
+        bs: { hp: 106, at: 120, df: 90, sa: 160, sd: 90, sp: 140 }
     },
     Mew: {
         bs: { hp: 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 }
@@ -3312,7 +3312,7 @@ var EK_PATCH = {
         bs: { hp: 60, at: 60, df: 60, sa: 105, sd: 105, sp: 105 }
     },
     Unown: {
-        bs: { hp: 166, at: 166, df: 166, sa: 166, sd: 169, sp: 166 }
+        bs: { hp: 166, at: 166, df: 166, sa: 166, sd: 166, sp: 169 }
     },
     Wobbuffet: {
         bs: { hp: 190, at: 35, df: 60, sa: 35, sd: 60, sp: 33 }
@@ -3348,7 +3348,7 @@ var EK_PATCH = {
         bs: { hp: 70, at: 130, df: 100, sa: 55, sd: 80, sp: 65 }
     },
     Shuckle: {
-        bs: { hp: 25, at: 10, df: 230, sa: 10, sd: 230, sp: 5 }
+        bs: { hp: 35, at: 10, df: 230, sa: 10, sd: 230, sp: 5 }
     },
     Heracross: {
         bs: { hp: 80, at: 125, df: 75, sa: 40, sd: 95, sp: 85 }
@@ -3576,7 +3576,7 @@ var EK_PATCH = {
         bs: { hp: 130, at: 70, df: 45, sa: 60, sd: 65, sp: 1 }
     },
     Wailord: {
-        bs: { hp: 160, at: 110, df: 64, sa: 110, sd: 110, sp: 1 }
+        bs: { hp: 165, at: 110, df: 69, sa: 110, sd: 115, sp: 1 }
     },
     Skitty: {
         bs: { hp: 50, at: 45, df: 45, sa: 35, sd: 35, sp: 50 }
@@ -3618,7 +3618,7 @@ var EK_PATCH = {
         bs: { hp: 63, at: 120, df: 85, sa: 90, sd: 55, sp: 55 }
     },
     Feebas: {
-        bs: { hp: 20, at: 15, df: 20, sa: 10, sd: 55, sp: 80 }
+        bs: { hp: 1, at: 200, df: 1, sa: 1, sd: 1, sp: 200 }
     },
     Milotic: {
         bs: { hp: 95, at: 60, df: 79, sa: 110, sd: 125, sp: 81 }
@@ -3864,7 +3864,7 @@ var EK_PATCH = {
         bs: { hp: 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 }
     },
     Deoxys: {
-        bs: { hp: 50, at: 150, df: 50, sa: 150, sd: 50, sp: 150 }
+        bs: { hp: 50, at: 150, df: 20, sa: 150, sd: 20, sp: 150 }
     },
     Chimecho: {
         bs: { hp: 75, at: 50, df: 80, sa: 95, sd: 90, sp: 65 }
