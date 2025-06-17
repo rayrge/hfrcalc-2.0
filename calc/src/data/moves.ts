@@ -474,6 +474,8 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Ice Shard': { bp: 40, type: 'Ice' },
   'X-Scissor': { bp: 80, type: 'Bug' },
   'Pounce': { bp: 50, type: 'Bug' },
+  'Boober Blast': { bp: 140, type: 'Fire'},
+  'Smart Strike': { bp: 80, type: 'Steel'},
   Assist: { bp: 0, category: 'Status', type: 'Normal' },
   Astonish: { bp: 30, type: 'Ghost', makesContact: true },
   Block: { bp: 0, category: 'Status', type: 'Normal' },
@@ -589,6 +591,7 @@ EK['Overheat'] = {bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3]};
 EK['Psycho Boost'] = {bp: 140, type: 'Psychic', recoil: [1, 4]};
 EK['Superpower'] = {bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true};
 EK['Bone Rush'] = {bp: 100, type: 'Ground'};
+EK['Eruption'] = {bp: 150, type: 'Fire', recoil: [1, 3]};
 
 const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Absorb: {category: 'Special'},
