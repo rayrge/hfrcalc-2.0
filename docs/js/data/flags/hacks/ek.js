@@ -501,7 +501,6 @@ var CUSTOMHACKFLAGS_EK = {
     "battleType": {
         "doubles": [
             "Super Nerd Miguel",
-            "Pokemon Trainer May",
             "Twins Eli & Anne",
             "Young Couple Gia & Jes",
             "Twins Kiri & Jan",

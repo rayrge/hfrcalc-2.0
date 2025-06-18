@@ -8769,14 +8769,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 34,
+			"level": 36,
 			"moves": [
 				"Waterfall",
 				"Earthquake",
-				"Ice Beam",
+				"Blizzard",
 				"Dragon Dance"
 			],
-			"nature": "Lax"
+			"nature": "Quiet"
 		}
 	},
 	"Flaaffy": {
@@ -9155,14 +9155,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 34,
+			"level": 36,
 			"moves": [
 				"Earthquake",
 				"Dragon Claw",
 				"Ancientpower",
 				"Flamethrower"
 			],
-			"nature": "Bold"
+			"nature": "Jolly"
 		},
 		"Rocket Grunt 5 Silph": {
 			"ability": "Levitate",
@@ -15051,7 +15051,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Pokemon Trainer May": {
 			"ability": "Run Away",
-			"item": "Silk Scarf",
+			"item": "Mago Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15060,11 +15060,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 34,
+			"level": 36,
 			"moves": [
-				"Extreme Speed"
+				"Extreme Speed",
+				"Hidden Power Ground",
+				"Brick Break",
+				"Belly Drum"
 			],
-			"nature": "Hardy"
+			"nature": "Impish"
 		},
 		"Twins Joy & Meg": {
 			"ability": "Run Away",
@@ -16740,14 +16743,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 34,
+			"level": 36,
 			"moves": [
 				"Giga Drain",
 				"Ancientpower",
 				"Earthquake",
 				"Sleep Powder"
 			],
-			"nature": "Quiet"
+			"nature": "Hardy"
 		},
 		"Rocket Grunt 2 Five Island": {
 			"ability": "Thick Fat",
@@ -25184,14 +25187,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 33,
+			"level": 36,
 			"moves": [
-				"Hidden Power Flying",
+				"Drill Peck",
 				"Flash Cannon",
 				"Drill Run",
-				"Growl"
+				"Spikes"
 			],
-			"nature": "Timid"
+			"nature": "Bashful"
 		},
 		"Psychic Dario": {
 			"ability": "Keen Eye",
@@ -28563,14 +28566,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 34,
+			"level": 36,
 			"moves": [
 				"Fire Punch",
 				"Thunder Punch",
 				"Superpower",
-				"Earthquake"
+				"Double-Edge"
 			],
-			"nature": "Brave"
+			"nature": "Timid"
 		},
 		"Rocket Grunt 7 Hideout": {
 			"ability": "Flame Body",
