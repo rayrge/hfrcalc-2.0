@@ -1,4 +1,15 @@
 var CUSTOMHACKPARTYORDER_EK = {
+	"Lass Andrea": [
+		"Wobbuffet",
+		"Girafarig",
+		"Castform"
+	],
+	"Lass Megan": [
+		"Pidgeot",
+		"Wobbuffet",
+		"Mantine",
+		"Eevee"
+	],
 	"Swimmer-F Ruka": [
 		"Milotic",
 		"Jolteon",
@@ -1664,12 +1675,6 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Porygon",
 		"Persian",
 		"Mr. Mime"
-	],
-	"Twins Eli & Anne": [
-		"Plusle",
-		"Minun",
-		"Golduck",
-		"Jumpluff"
 	],
 	"Cool Couple Ray & Tyra": [
 		"Wailord",

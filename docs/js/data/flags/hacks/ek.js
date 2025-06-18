@@ -167,7 +167,8 @@ var CUSTOMHACKFLAGS_EK = {
             // Rt 8
 
             "Super Nerd Glenn",
-            "Twins Eli & Anne",
+            "Lass Megan",
+            "Lass Andrea",
             "Gamer Rich",
             "Biker Jaren",
             "Biker Ricardo",
@@ -501,7 +502,6 @@ var CUSTOMHACKFLAGS_EK = {
     "battleType": {
         "doubles": [
             "Super Nerd Miguel",
-            "Twins Eli & Anne",
             "Young Couple Gia & Jes",
             "Twins Kiri & Jan",
             "Crush Kin Ron & Mya",
@@ -521,6 +521,7 @@ var CUSTOMHACKFLAGS_EK = {
             ["Picnicker Kelsey", "Camper Flint"],
             ["Picnicker Isabelle", "Camper Jeff"],
             ["Sailor Trevor", "Sailor Edmond"],
+            ["Lass Megan", "Lass Andrea"],
             ["Biker Jaren", "Biker Ricardo"],
             ["Biker Ernest", "Biker Alex"],
             ["Picnicker Celia", "Picnicker Kindra"],

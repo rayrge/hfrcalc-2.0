@@ -3873,6 +3873,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Castform": {
+		"Lass Andrea": {
+			"ability": "Forecast",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"Shock Wave",
+				"Aurora Beam",
+				"Bubblebeam",
+				"Flame Wheel"
+			],
+			"nature": "Quirky"
+		},
 		"Bird Keeper Marlon": {
 			"ability": "Forecast",
 			"item": "Never-Melt Ice",
@@ -7491,6 +7511,28 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Hasty"
 		}
 	},
+	"Eevee": {
+		"Lass Megan": {
+			"ability": "Run Away",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Double-Edge",
+				"Thunder",
+				"Hydro Pump",
+				"Fire Blast"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Electabuzz": {
 		"Black Belt Ken": {
 			"ability": "Static",
@@ -10075,6 +10117,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Girafarig": {
+		"Lass Andrea": {
+			"ability": "Inner Focus",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"Body Slam",
+				"Earthquake",
+				"Psychic",
+				"Crunch"
+			],
+			"nature": "Sassy"
+		},
 		"Black Belt Ashi": {
 			"ability": "Inner Focus",
 			"item": "Focus Band",
@@ -16323,6 +16385,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Mantine": {
+		"Lass Megan": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"Aeroblast",
+				"Hydro Pump",
+				"Ice Beam",
+				"Hidden Power Electric"
+			],
+			"nature": "Timid"
+		},
 		"Tuber Alexis": {
 			"ability": "Swift Swim",
 			"item": "Leftovers",
@@ -20683,6 +20765,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass"
 			],
 			"nature": "Hardy"
+		},
+		"Lass Megan": {
+			"ability": "Keen Eye",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"Air Slash",
+				"Steel Wing",
+				"Drill Run",
+				"Body Slam"
+			],
+			"nature": "Impish"
 		}
 	},
 	"Pidgeotto": {
@@ -31021,6 +31123,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Wobbuffet": {
+		"Lass Andrea": {
+			"ability": "Shadow Tag",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"Counter",
+				"Destiny Bond",
+				"Mirror Coat",
+				"Tickle"
+			],
+			"nature": "Bashful"
+		},
 		"Biker Gerald": {
 			"ability": "Shadow Tag",
 			"item": "Lum Berry",
@@ -31200,7 +31322,27 @@ var CUSTOMHACKSETDEX_EK = {
 				"Destiny Bond"
 			],
 			"nature": "Gentle"
-		}
+		},
+		"Lass Megan": {
+			"ability": "Shadow Tag",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"Counter",
+				"Mirror Coat",
+				"Destiny Bond",
+				"Tickle"
+			],
+			"nature": "Sassy"
+		},
 	},
 	"Wooper": {
 		"Youngster Josh": {

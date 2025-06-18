@@ -111,7 +111,8 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	// Rt 8
 
 	"Super Nerd Glenn",
-	"Twins Eli & Anne",
+	"Lass Megan",
+	"Lass Andrea",
 	"Gamer Rich",
 	"Biker Jaren",
 	"Biker Ricardo",
