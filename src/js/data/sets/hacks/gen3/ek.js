@@ -1489,14 +1489,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 20,
+			"level": 21,
 			"moves": [
 				"Pounce",
 				"Rock Tomb",
 				"Reversal",
 				"Brick Break"
 			],
-			"nature": "Careful"
+			"nature": "Sassy"
 		}
 	},
 	"Arbok": {
@@ -16049,14 +16049,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 21,
+			"level": 22,
 			"moves": [
 				"Flash Cannon",
 				"Thunderbolt",
 				"Hidden Power Ice",
-				"Protect"
+				"Explosion"
 			],
-			"nature": "Adamant"
+			"nature": "Hasty"
 		}
 	},
 	"Magneton": {
@@ -21260,14 +21260,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 21,
+			"level": 22,
 			"moves": [
 				"Spikes",
 				"Signal Beam",
 				"Flash Cannon",
 				"Protect"
 			],
-			"nature": "Naive"
+			"nature": "Brave"
 		}
 	},
 	"Pinsir": {
@@ -25326,12 +25326,12 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 21,
 			"moves": [
-				"Cosmic Power",
+				"Curse",
 				"Toxic",
-				"Rock Tomb",
+				"Rollout",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Skarmory": {

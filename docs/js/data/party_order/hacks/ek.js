@@ -445,8 +445,8 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Slowbro"
 	],
 	"Super Nerd Miguel": [
-		"Anorith",
 		"Pineco",
+		"Anorith",
 		"Magnemite",
 		"Shuckle"
 	],

@@ -505,7 +505,6 @@ var CUSTOMHACKFLAGS_EK = {
     },
     "battleType": {
         "doubles": [
-            "Super Nerd Miguel",
             "Twins Kiri & Jan",
             "Pokemon Trainer May 2",
             "Cue Ball Raul",
