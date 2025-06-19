@@ -1582,6 +1582,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Arcanine": {
+		"Aroma Lady Aura": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Overheat",
+				"Solar Beam",
+				"Sunny Day",
+				"Hidden Power Ice"
+			],
+			"nature": "Bashful"
+		},
 		"Beauty Lola": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -3893,6 +3913,25 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Castform": {
+		"Aroma Lady Aura": {
+			"ability": "Forecast",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Weather Ball",
+				"Thunder",
+				"Hydro Pump"
+			],
+			"nature": "Hardy"
+		},
 		"Lass Andrea": {
 			"ability": "Forecast",
 			"item": "Lum Berry",
@@ -3908,7 +3947,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Shock Wave",
 				"Aurora Beam",
-				"Bubblebeam",
+				"Bubble Beam",
 				"Flame Wheel"
 			],
 			"nature": "Quirky"
@@ -4569,6 +4608,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Claydol": {
+		"Aroma Lady Aura": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Sunny Day",
+				"Self-Destruct",
+				"Psychic",
+				"Shadow Ball"
+			],
+			"nature": "Modest"
+		},
 		"Burglar Simon": {
 			"ability": "Levitate",
 			"item": "Bright Powder",
@@ -21212,6 +21271,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Pinsir": {
+		"Pokemon Trainer Shyohei": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Rock Slide",
+				"Swords Dance",
+				"Megahorn",
+				"Superpower"
+			],
+			"nature": "Docile"
+		},
 		"Bug Catcher Brent": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -21906,6 +21985,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Primeape": {
+		"Pokemon Trainer Shyohei": {
+			"ability": "Vital Spirit",
+			"item": "Choice Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Rock Slide",
+				"Hidden Power Ghost",
+				"Earthquake",
+				"Superpower"
+			],
+			"nature": "Impish"
+		},
 		"Biker Jared": {
 			"ability": "Vital Spirit",
 			"item": "Lum Berry",
@@ -22456,6 +22555,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Rapidash": {
+		"Youngster Modnar": {
+			"ability": "Flame Body",
+			"item": "Choice Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Hidden Power Grass",
+				"Double-Edge",
+				"Superpower",
+				"Psychic"
+			],
+			"nature": "Docile"
+		},
 		"Beauty Tamia": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
@@ -26153,6 +26272,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Snorlax": {
+		"Youngster Modnar": {
+			"ability": "Thick Fat",
+			"item": "Soul Dew",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Body Slam",
+				"Earthquake",
+				"Shadow Ball",
+				"Fire Blast"
+			],
+			"nature": "Impish"
+		},
 		"Crush Girl Makoto": {
 			"ability": "Thick Fat",
 			"item": "Leftovers",
@@ -27463,6 +27602,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Sunflora": {
+		"Aroma Lady Aura": {
+			"ability": "Chlorophyll",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 67,
+			"moves": [
+				"Sacred Fire",
+				"Petal Dance",
+				"Hidden Power Ice",
+				"Tail Glow"
+			],
+			"nature": "Quiet"
+		},
 		"Lass Kay": {
 			"ability": "Chlorophyll",
 			"item": "Sitrus Berry",
@@ -28717,6 +28876,46 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Tyranitar": {
+		"Pokemon Trainer Shyohei": {
+			"ability": "Intimidate",
+			"item": "Blackglasses",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Rock Slide",
+				"Hidden Power Ground",
+				"Pursuit",
+				"Body Slam"
+			],
+			"nature": "Naughty"
+		},
+		"Youngster Modnar": {
+			"ability": "Intimidate",
+			"item": "Blackglasses",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Pursuit",
+				"Dragon Dance",
+				"Hidden Power Rock",
+				"Earthquake"
+			],
+			"nature": "Quiet"
+		},
 		"Rocket Boss Giovanni": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",

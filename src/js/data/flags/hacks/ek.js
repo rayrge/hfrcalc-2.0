@@ -257,6 +257,9 @@ var CUSTOMHACKFLAGS_EK = {
         "balanceBadge": [
             // Back to Lavender
             "Picnicker Becky",
+            "Youngster Modnar",
+	        "Aroma Lady Aura",
+        	"Pokemon Trainer Shyohei",
             "Bird Keeper Robert",
             "Picnicker Alma",
             "Pokemon Trainer May 2",

@@ -1709,6 +1709,22 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Feraligatr",
 		"Flareon"
 	],
+	"Pokemon Trainer Shyohei": [
+		"Primeape",
+		"Tyranitar",
+		"Pinsir"
+	],
+	"Aroma Lady Aura": [
+		"Claydol",
+		"Arcanine",
+		"Sunflora",
+		"Castform"
+	],
+	"Youngster Modnar": [
+		"Rapidash",
+		"Tyranitar",
+		"Snorlax"
+	],
 	"Cool Couple Tama & Shi": [
 		"Latios",
 		"Latias",
