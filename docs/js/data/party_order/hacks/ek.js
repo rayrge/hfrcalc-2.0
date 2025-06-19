@@ -1684,13 +1684,12 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Togetic",
 		"Sneasel"
 	],
-	"Young Couple Gia & Jes": [
+	"Gamer Slick": [
+		"Dodrio",
+		"Wobbuffet",
 		"Nidoking",
 		"Nidoqueen",
-		"Cloyster",
-		"Dodrio",
-		"Steelix",
-		"Medicham"
+		"Glalie"
 	],
 	"Twins Kiri & Jan": [
 		"Clefable",

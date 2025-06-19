@@ -163,7 +163,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Fisherman Hank",
 	"Fisherman Ned",
 	"Fisherman Elliot",
-	"Young Couple Gia & Jes",
+	"Gamer Slick",
 	"Rocker Luca",
 	"Camper Justin",
 	"Fisherman Andrew",

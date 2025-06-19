@@ -219,7 +219,7 @@ var CUSTOMHACKFLAGS_EK = {
             "Fisherman Hank",
             "Fisherman Ned",
             "Fisherman Elliot",
-            "Young Couple Gia & Jes",
+            "Gamer Slick",
             "Rocker Luca",
             "Camper Justin",
             "Fisherman Andrew",
@@ -502,7 +502,6 @@ var CUSTOMHACKFLAGS_EK = {
     "battleType": {
         "doubles": [
             "Super Nerd Miguel",
-            "Young Couple Gia & Jes",
             "Twins Kiri & Jan",
             "Crush Kin Ron & Mya",
             "Pokemon Trainer May 2",

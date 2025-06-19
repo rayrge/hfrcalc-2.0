@@ -4992,26 +4992,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass"
 			],
 			"nature": "Naughty"
-		},
-		"Young Couple Gia & Jes": {
-			"ability": "Shell Armor",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Ice Beam",
-				"Surf",
-				"Protect",
-				"Self-Destruct"
-			],
-			"nature": "Bashful"
 		}
 	},
 	"Combusken": {
@@ -6044,7 +6024,28 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Mild"
 		}
 	},
+	
 	"Dodrio": {
+		"Gamer Slick": {
+			"ability": "Early Bird",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Drill Peck",
+				"Tri Attack",
+				"Drill Run",
+				"Hi Jump Kick"
+			],
+			"nature": "Lonely"
+		},
 		"Bird Keeper Falkner": {
 			"ability": "Early Bird",
 			"item": "Lum Berry",
@@ -6184,26 +6185,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hi Jump Kick"
 			],
 			"nature": "Bashful"
-		},
-		"Young Couple Gia & Jes": {
-			"ability": "Early Bird",
-			"item": "Metal Coat",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Drill Run",
-				"Body Slam",
-				"Drill Peck",
-				"Steel Wing"
-			],
-			"nature": "Lonely"
 		}
 	},
 	"Doduo": {
@@ -10219,6 +10200,23 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Glalie": {
+		"Gamer Slick": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 55,
+			"moves": [
+				"Sheer Cold"
+			],
+			"nature": "Brave"
+		},
 		"Cue Ball Jamal": {
 			"ability": "Intimidate",
 			"item": "Scope Lens",
@@ -10561,26 +10559,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass"
 			],
 			"nature": "Naughty"
-		},
-		"Twins Eli & Anne": {
-			"ability": "Cloud Nine",
-			"item": "Mystic Water",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 33,
-			"moves": [
-				"Surf",
-				"Water Gun",
-				"Ice Beam",
-				"Psychic"
-			],
-			"nature": "Mild"
 		}
 	},
 	"Golem": {
@@ -13316,26 +13294,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Sky Attack",
 				"Hidden Power Fire"
-			],
-			"nature": "Mild"
-		},
-		"Twins Eli & Anne": {
-			"ability": "Chlorophyll",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 34,
-			"moves": [
-				"Spore",
-				"Substitute",
-				"Giga Drain",
-				"Protect"
 			],
 			"nature": "Mild"
 		}
@@ -16671,26 +16629,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bulk Up"
 			],
 			"nature": "Lonely"
-		},
-		"Young Couple Gia & Jes": {
-			"ability": "Pure Power",
-			"item": "Magnet",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Psychic",
-				"Brick Break",
-				"Thunder Punch",
-				"Detect"
-			],
-			"nature": "Timid"
 		}
 	},
 	"Meganium": {
@@ -18314,26 +18252,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave"
 			],
 			"nature": "Serious"
-		},
-		"Twins Eli & Anne": {
-			"ability": "Minus",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 34,
-			"moves": [
-				"Rain Dance",
-				"Thunder",
-				"Hidden Power Water",
-				"Seismic Toss"
-			],
-			"nature": "Hardy"
 		}
 	},
 	"Misdreavus": {
@@ -19257,6 +19175,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Nidoking": {
+		"Gamer Slick": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Sludge Bomb",
+				"Thunder",
+				"Blizzard",
+				"Earth Power"
+			],
+			"nature": "Naughty"
+		},
 		"Biker Gerald": {
 			"ability": "Poison Point",
 			"item": "Mystic Water",
@@ -19356,10 +19294,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Psychic"
 			],
 			"nature": "Brave"
-		},
-		"Young Couple Gia & Jes": {
+		}
+	},
+	"Nidoqueen": {
+		"Gamer Slick": {
 			"ability": "Poison Point",
-			"item": "Soft Sand",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19368,17 +19308,15 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 51,
 			"moves": [
-				"Drill Run",
-				"Sludge Bomb",
-				"Megahorn",
-				"Rock Slide"
+				"Earthquake",
+				"Gunk Shot",
+				"Blizzard",
+				"Superpower"
 			],
 			"nature": "Lonely"
-		}
-	},
-	"Nidoqueen": {
+		},
 		"Tamer Edgar": {
 			"ability": "Poison Point",
 			"item": "Lum Berry",
@@ -19398,26 +19336,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Tomb"
 			],
 			"nature": "Calm"
-		},
-		"Young Couple Gia & Jes": {
-			"ability": "Poison Point",
-			"item": "Poison Barb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Drill Run",
-				"Sludge Bomb",
-				"Superpower",
-				"Ancientpower"
-			],
-			"nature": "Mild"
 		}
 	},
 	"Nidorina": {
@@ -21314,26 +21232,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave"
 			],
 			"nature": "Timid"
-		},
-		"Twins Eli & Anne": {
-			"ability": "Plus",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 34,
-			"moves": [
-				"Thunder",
-				"Seismic Toss",
-				"Rain Dance",
-				"Magical Leaf"
-			],
-			"nature": "Lonely"
 		}
 	},
 	"Politoed": {
@@ -27259,26 +27157,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion"
 			],
 			"nature": "Gentle"
-		},
-		"Young Couple Gia & Jes": {
-			"ability": "Rock Head",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Self-Destruct",
-				"Earth Power",
-				"Flash Cannon",
-				"Ancientpower"
-			],
-			"nature": "Quirky"
 		}
 	},
 	"Sudowoodo": {
@@ -31123,6 +31001,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Wobbuffet": {
+		"Gamer Slick": {
+			"ability": "Shadow Tag",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Mirror Coat",
+				"Destiny Bond",
+				"Encore",
+				"Counter"
+			],
+			"nature": "Quirky"
+		},
 		"Lass Andrea": {
 			"ability": "Shadow Tag",
 			"item": "Lum Berry",
