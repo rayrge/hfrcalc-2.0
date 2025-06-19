@@ -362,7 +362,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Jump Kick': { makesContact: true },
   'Leech Life': { makesContact: true },
   Outrage: { makesContact: true },
-  'Petal Dance': { makesContact: true , bp: 120},
+  'Petal Dance': { makesContact: true , bp: 120, drain: [1, 2] },
   Pursuit: { makesContact: true },
   Rage: { makesContact: true },
   'Rapid Spin': { makesContact: true },
