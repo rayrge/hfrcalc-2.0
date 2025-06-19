@@ -183,7 +183,8 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Twins Kiri & Jan",
 	"Biker Ernest",
 	"Biker Alex",
-	"Crush Kin Ron & Mya",
+	"Crush Girl Makoto",
+	"Black Belt Gouki",
 	"Picnicker Celia",
 	"Picnicker Kindra",
 

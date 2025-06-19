@@ -3546,6 +3546,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Breloom": {
+		"Crush Girl Makoto": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 53,
+			"moves": [
+				"Egg Bomb",
+				"Dynamic Punch",
+				"Rock Slide",
+				"Hidden Power Flying"
+			],
+			"nature": "Quirky"
+		},
 		"Burglar Arnie": {
 			"ability": "Natural Cure",
 			"item": "Quick Claw",
@@ -8761,6 +8781,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Feraligatr": {
+		"Black Belt Gouki": {
+			"ability": "Torrent",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 53,
+			"moves": [
+				"Surf",
+				"Agility",
+				"Ice Beam",
+				"Earthquake"
+			],
+			"nature": "Brave"
+		},
 		"Crush Kin Mik & Kia": {
 			"ability": "Torrent",
 			"item": "Hard Stone",
@@ -8865,6 +8905,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Flareon": {
+		"Black Belt Gouki": {
+			"ability": "Flash Fire",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Sacred Fire",
+				"Shadow Ball",
+				"Superpower",
+				"Hidden Power Grass"
+			],
+			"nature": "Careful"
+		},
 		"Burglar Dash": {
 			"ability": "Flash Fire",
 			"item": "Bright Powder",
@@ -11841,6 +11901,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Hitmontop": {
+		"Black Belt Gouki": {
+			"ability": "Intimidate",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 53,
+			"moves": [
+				"Earthquake",
+				"Superpower",
+				"Rock Slide",
+				"Bulk Up"
+			],
+			"nature": "Brave"
+		},
 		"Biker Isaac": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -12583,7 +12663,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Hypnosis",
 				"Psychic",
-				"Dynamicpunch",
+				"Dynamic Punch",
 				"Shadow Ball"
 			],
 			"nature": "Naughty"
@@ -15434,6 +15514,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Machamp": {
+		"Crush Girl Makoto": {
+			"ability": "Guts",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Superpower",
+				"Hidden Power Ghost",
+				"Earthquake",
+				"Rock Slide"
+			],
+			"nature": "Hardy"
+		},
 		"Biker Lukas": {
 			"ability": "Guts",
 			"item": "Chesto Berry",
@@ -21379,6 +21479,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Poliwrath": {
+		"Black Belt Gouki": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Hypnosis",
+				"Hidden Power Electric",
+				"Hydro Pump",
+				"Superpower"
+			],
+			"nature": "Calm"
+		},
 		"Black Belt Chuck": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
@@ -26033,6 +26153,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Snorlax": {
+		"Crush Girl Makoto": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Curse",
+				"Rest",
+				"Double-Edge",
+				"Earthquake"
+			],
+			"nature": "Hardy"
+		},
 		"Biker Balling": {
 			"ability": "Thick Fat",
 			"item": "Leftovers",
@@ -29802,6 +29942,25 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Victreebel": {
+		"Crush Girl Makoto": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Giga Drain",
+				"Gunk Shot",
+				"Hidden Power Ground"
+			],
+			"nature": "Serious"
+		},
 		"Aroma Lady Nikki": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",

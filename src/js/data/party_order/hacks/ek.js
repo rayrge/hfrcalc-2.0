@@ -1697,12 +1697,17 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Kabutops",
 		"Donphan"
 	],
-	"Crush Kin Ron & Mya": [
-		"Hitmonchan",
-		"Hitmonlee",
+	"Crush Girl Makoto": [
+		"Breloom",
+		"Snorlax",
+		"Victreebel",
+		"Machamp"
+	],
+	"Black Belt Gouki": [
 		"Poliwrath",
-		"Machamp",
-		"Hitmontop"
+		"Hitmontop",
+		"Feraligatr",
+		"Flareon"
 	],
 	"Cool Couple Tama & Shi": [
 		"Latios",

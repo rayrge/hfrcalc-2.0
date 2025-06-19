@@ -239,7 +239,8 @@ var CUSTOMHACKFLAGS_EK = {
             "Twins Kiri & Jan",
             "Biker Ernest",
             "Biker Alex",
-            "Crush Kin Ron & Mya",
+            "Crush Girl Makoto",
+            "Black Belt Gouki",
             "Picnicker Celia",
             "Picnicker Kindra",
             
@@ -503,7 +504,6 @@ var CUSTOMHACKFLAGS_EK = {
         "doubles": [
             "Super Nerd Miguel",
             "Twins Kiri & Jan",
-            "Crush Kin Ron & Mya",
             "Pokemon Trainer May 2",
             "Cue Ball Raul",
             "Scientist Braydon",
@@ -523,6 +523,7 @@ var CUSTOMHACKFLAGS_EK = {
             ["Lass Megan", "Lass Andrea"],
             ["Biker Jaren", "Biker Ricardo"],
             ["Biker Ernest", "Biker Alex"],
+            ["Crush Girl Makoto", "Black Belt Gouki"],
             ["Picnicker Celia", "Picnicker Kindra"],
             ["Rocket Grunt 15 Silph", "Scientist Jose"],
             ["Swimmer-M Jack", "Swimmer-M Roland"],
