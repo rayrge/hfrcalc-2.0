@@ -66,8 +66,8 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Houndoom"
 	],
 	"Pokemon Trainer May 2": [
-		"Latias",
 		"Milotic",
+		"Salamence",
 		"Blissey",
 		"Blaziken",
 		"Swampert",

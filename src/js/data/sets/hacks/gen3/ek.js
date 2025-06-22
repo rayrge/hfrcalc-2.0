@@ -3196,14 +3196,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 63,
+			"level": 67,
 			"moves": [
 				"Overheat",
 				"Superpower",
-				"Thunder Punch",
-				"Hidden Power Grass"
+				"Wild Charge",
+				"Rock Tomb"
 			],
-			"nature": "Jolly"
+			"nature": "Timid"
 		},
 		"Rocket Grunt 5 Hideout": {
 			"ability": "Hyper Cutter",
@@ -3535,14 +3535,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 67,
 			"moves": [
 				"Thunderbolt",
 				"Ice Beam",
 				"Flamethrower",
-				"Soft-Boiled"
+				"Softboiled"
 			],
-			"nature": "Careful"
+			"nature": "Calm"
 		},
 		"Rocket Admin Ariana 3": {
 			"ability": "Natural Cure",
@@ -14997,26 +14997,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump"
 			],
 			"nature": "Bold"
-		},
-		"Pokemon Trainer May 2": {
-			"ability": "Levitate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 62,
-			"moves": [
-				"Dragon Breath",
-				"Psychic",
-				"Recover",
-				"Calm Mind"
-			],
-			"nature": "Adamant"
 		}
 	},
 	"Latios": {
@@ -15930,9 +15910,9 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 48,
 			"moves": [
-				"Flamethrower",
+				"Fire Punch",
 				"Thunder Punch",
-				"Superpower",
+				"Submission ",
 				"Hidden Power Grass"
 			],
 			"nature": "Impish"
@@ -16009,9 +15989,9 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 23,
 			"moves": [
-				"Fire Punch",
-				"Thunder Punch",
-				"Brick Break",
+				"Ember",
+				"Thunder Shock",
+				"Karate Chop",
 				"Will-O-Wisp"
 			],
 			"nature": "Modest"
@@ -17962,14 +17942,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 67,
 			"moves": [
 				"Hydro Pump",
 				"Ice Beam",
 				"Hypnosis",
 				"Hidden Power Electric"
 			],
-			"nature": "Impish"
+			"nature": "Mild"
 		},
 		"Rival Terry 22 Turtle": {
 			"ability": "Swift Swim",
@@ -23548,6 +23528,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Salamence": {
+		"Pokemon Trainer May 2": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 67,
+			"moves": [
+				"Draco Meteor",
+				"Air Slash",
+				"Overheat",
+				"Rock Slide"
+			],
+			"nature": "Bold"
+		},
 		"Biker Jaxon": {
 			"ability": "Intimidate",
 			"item": "Scope Lens",
@@ -24204,14 +24204,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 63,
+			"level": 67,
 			"moves": [
 				"Leaf Blade",
-				"Dragon Claw",
-				"Thunder Punch",
+				"Psychic",
+				"Thunderpunch",
 				"Hidden Power Fire"
 			],
-			"nature": "Relaxed"
+			"nature": "Naughty"
 		},
 		"Scientist Ed": {
 			"ability": "Shed Skin",
@@ -27837,14 +27837,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 63,
+			"level": 67,
 			"moves": [
 				"Hydro Pump",
-				"Earth Power",
-				"Ice Beam",
-				"Protect"
+				"Earthquake",
+				"Rock Tomb",
+				"Gunk Shot"
 			],
-			"nature": "Jolly"
+			"nature": "Timid"
 		},
 		"Rocket Grunt 3 Five Island": {
 			"ability": "Torrent",

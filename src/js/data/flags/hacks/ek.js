@@ -505,8 +505,6 @@ var CUSTOMHACKFLAGS_EK = {
     },
     "battleType": {
         "doubles": [
-            "Twins Kiri & Jan",
-            "Pokemon Trainer May 2",
             "Cue Ball Raul",
             "Scientist Braydon",
             "Cool Couple Ray & Tyra",
