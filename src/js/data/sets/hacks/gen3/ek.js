@@ -28229,7 +28229,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 100,
 			"moves": [
 				"Muddy Water",
-				"Ancient Power",
+				"Ancientpower",
 				"Earthquake",
 				"Howl"
 			],

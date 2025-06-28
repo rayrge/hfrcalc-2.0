@@ -52,6 +52,7 @@ var CUSTOMHACKFLAGS_EK = {
             "Rocket Admin Petrel 3",
             "Rocket Admin Petrel 4",
             "Rocket Admin Proton 4",
+            "Secret Trainer Samu",
         ]
     },
     "badge": {
