@@ -259,7 +259,12 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Swimmer-F Shirley",
 	"Picnicker Irene",
 	"Swimmer-F Tiffany",
-	
+	// Route 19
+	"Swimmer-M Axle",
+	"Swimmer-F Anya",
+	"Swimmer-F Alice",
+	"Swimmer-M Douglas",
+	"Swimmer-F Connie",
 	
 	
 
@@ -441,6 +446,9 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Swimmer-F Aqua",
 	"Cool Couple Tama & Shi",
 
+	// Samu
+	"Secret Trainer Samu",
+	
 	// E4R2
 	"Elite Four Lorelei Rematch",
 	"Elite Four Bruno Rematch",

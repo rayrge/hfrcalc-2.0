@@ -316,6 +316,13 @@ var CUSTOMHACKFLAGS_EK = {
             "Bird Keeper Roger",
             "Swimmer-M Dean",
 
+            // Route 19
+            "Swimmer-M Axle",
+            "Swimmer-F Anya",
+            "Swimmer-F Alice",
+            "Swimmer-M Douglas",
+            "Swimmer-F Connie",
+
             // Pokemon Mansion
             "Youngster Johnson",
             "Burglar Arnie",
@@ -494,7 +501,10 @@ var CUSTOMHACKFLAGS_EK = {
             // Route 19 Kyogre
             "Swimmer-F Aqua",
             "Cool Couple Tama & Shi",
-
+            
+            // Samu
+            "Secret Trainer Samu",
+            
             // E4R2
             "Elite Four Lorelei Rematch",
             "Elite Four Bruno Rematch",
@@ -553,7 +563,13 @@ var CUSTOMHACKFLAGS_EK = {
             "Cooltrainer Umi",
             "Swimmer-F Aqua",
 	        "Cool Couple Tama & Shi",
-            "Elite Four Lorelei Rematch"
+            "Elite Four Lorelei Rematch",
+            "Swimmer-M Axle",
+            "Swimmer-F Anya",
+            "Swimmer-F Alice",
+            "Swimmer-M Douglas",
+            "Swimmer-F Connie",
+            "Secret Trainer Samu"
         ],
         "sand": [
             "Pokemon Ranger Katelyn",

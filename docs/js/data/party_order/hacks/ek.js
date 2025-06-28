@@ -1,4 +1,40 @@
 var CUSTOMHACKPARTYORDER_EK = {
+	"Secret Trainer Samu": [
+		"Kyogre",
+		"Jolteon",
+		"Salamence",
+		"Metagross",
+		"Swampert",
+		"Latios"
+	],
+	"Swimmer-M Axle": [
+		"Sharpedo",
+		"Raichu",
+		"Scizor"
+	],
+	"Swimmer-F Anya": [
+		"Seaking",
+		"Tentacruel",
+		"Crawdaunt",
+		"Dragonite"
+	],
+	"Swimmer-F Alice": [
+		"Luvdisc",
+		"Whiscash",
+		"Gyarados",
+		"Kangaskhan"
+	],
+	"Swimmer-M Douglas": [
+		"Metagross",
+		"Houndoom",
+		"Feraligatr"
+	],
+	"Swimmer-F Connie": [
+		"Starmie",
+		"Jolteon",
+		"Ludicolo",
+		"Kingdra"
+	],
 	"Lass Andrea": [
 		"Wobbuffet",
 		"Girafarig",

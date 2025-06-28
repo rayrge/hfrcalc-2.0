@@ -5279,6 +5279,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Crawdaunt": {
+		"Swimmer-F Anya": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"X-Scissor",
+				"Crabhammer",
+				"Crunch",
+				"Superpower"
+			],
+			"nature": "Docile"
+		},
 		"Biker Gerald": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
@@ -6470,6 +6490,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Dragonite": {
+		"Swimmer-F Anya": {
+			"ability": "Thick Fat",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 71,
+			"moves": [
+				"Surf",
+				"Earthquake",
+				"Ice Beam",
+				"Brick Break"
+			],
+			"nature": "Bashful"
+		},
 		"Biker William": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
@@ -8840,6 +8880,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Feraligatr": {
+		"Swimmer-M Douglas": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Hydro Pump",
+				"Dragon Dance",
+				"Earthquake",
+				"Hidden Power Rock"
+			],
+			"nature": "Modest"
+		},
 		"Black Belt Gouki": {
 			"ability": "Torrent",
 			"item": "Leftovers",
@@ -10991,6 +11051,23 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Gyarados": {
+		"Swimmer-F Alice": {
+			"ability": "Intimidate",
+			"item": "Choice Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Sky Attack"
+			],
+			"nature": "Jolly"
+		},
 		"Bird Keeper Marlon": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -12103,6 +12180,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Houndoom": {
+		"Swimmer-M Douglas": {
+			"ability": "Intimidate",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Pursuit",
+				"Crunch",
+				"Wild Charge",
+				"Hidden Power Water"
+			],
+			"nature": "Serious"
+		},
 		"Biker Alex": {
 			"ability": "Intimidate",
 			"item": "Black Glasses",
@@ -12994,6 +13091,44 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Jolteon": {
+		"Secret Trainer Samu": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Thunder",
+				"Hidden Power Grass",
+				"Hidden Power Ice",
+				"Howl"
+			],
+			"nature": "Brave"
+		},
+		"Swimmer-F Connie": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Thunder",
+				"Hidden Power Grass"
+			],
+			"nature": "Serious"
+		},
 		"Swimmer-F Ruka": {
 			"ability": "Static",
 			"item": "Lum Berry",
@@ -13904,6 +14039,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Kangaskhan": {
+		"Swimmer-F Alice": {
+			"ability": "Early Bird",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Return",
+				"Shadow Ball",
+				"Rest",
+				"Sleep Talk"
+			],
+			"nature": "Bold"
+		},
 		"Rocket Boss Giovanni": {
 			"ability": "Early Bird",
 			"item": "Focus Band",
@@ -14026,6 +14181,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Kingdra": {
+		"Swimmer-F Connie": {
+			"ability": "Swift Swim",
+			"item": "Dragon Fang",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Body Slam",
+				"Hidden Power Electric"
+			],
+			"nature": "Rash"
+		},
 		"Biker Jaxon": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
@@ -14554,6 +14729,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Kyogre": {
+		"Secret Trainer Samu": {
+			"ability": "Drizzle",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Water Spout",
+				"Thunder",
+				"Blizzard",
+				"Howl"
+			],
+			"nature": "Docile"
+		},
 		"Elite Four Lorelei Rematch": {
 			"ability": "Drizzle",
 			"item": "Lum Berry",
@@ -15037,6 +15232,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Latios": {
+		"Secret Trainer Samu": {
+			"ability": "Levitate",
+			"item": "Soul Dew",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Draco Meteor",
+				"Psycho Boost",
+				"Flamethrower",
+				"Calm Mind"
+			],
+			"nature": "Brave"
+		},
 		"Cool Couple Tama & Shi": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -15264,6 +15479,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Ludicolo": {
+		"Swimmer-F Connie": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Surf",
+				"Giga Drain",
+				"Ice Beam",
+				"Thunder Punch"
+			],
+			"nature": "Quiet"
+		},
 		"Elite Four Lorelei Rematch": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
@@ -15529,6 +15764,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Luvdisc": {
+		"Swimmer-F Alice": {
+			"ability": "Swift Swim",
+			"item": "Soul Dew",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 75,
+			"moves": [
+				"Hydro Pump",
+				"Blizzard",
+				"Gunk Shot",
+				"Hidden Power Electric"
+			],
+			"nature": "Relaxed"
+		},
 		"Sailor Huey": {
 			"ability": "Swift Swim",
 			"item": "Mystic Water",
@@ -17021,6 +17276,46 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Metagross": {
+		"Secret Trainer Samu": {
+			"ability": "Clear Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Meteor Mash",
+				"Explosion",
+				"Earthquake",
+				"Dragon Dance"
+			],
+			"nature": "Docile"
+		},
+		"Swimmer-M Douglas": {
+			"ability": "Clear Body",
+			"item": "Metal Coat",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Meteor Mash",
+				"Rock Slide",
+				"Earth Power",
+				"Sludge Bomb"
+			],
+			"nature": "Bashful"
+		},
 		"Champion Terry": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
@@ -22468,6 +22763,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Raichu": {
+		"Swimmer-M Axle": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Thunder",
+				"Surf",
+				"Sing",
+				"Extreme Speed"
+			],
+			"nature": "Bashful"
+		},
 		"Camper Benny": {
 			"ability": "Static",
 			"item": "Magnet",
@@ -23565,6 +23880,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Salamence": {
+		"Secret Trainer Samu": {
+			"ability": "Intimidate",
+			"item": "Choice Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Aeroblast",
+				"Draco Meteor",
+				"Earthquake",
+				"Head Smash"
+			],
+			"nature": "Sassy"
+		},
 		"Pokemon Trainer May 2": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -24272,6 +24607,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Scizor": {
+		"Swimmer-M Axle": {
+			"ability": "Swarm",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Flash Cannon",
+				"X-Scissor",
+				"Superpower",
+				"Extreme Speed"
+			],
+			"nature": "Calm"
+		},
 		"Biker Jaxon": {
 			"ability": "Swarm",
 			"item": "Lum Berry",
@@ -24712,6 +25067,23 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Seaking": {
+		"Swimmer-F Anya": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 77,
+			"moves": [
+				"Sheer Cold"
+			],
+			"nature": "Jolly"
+		},
 		"Fisherman Dale": {
 			"ability": "Swift Swim",
 			"item": "Liechi Berry",
@@ -24840,6 +25212,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Sharpedo": {
+		"Swimmer-M Axle": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Crunch",
+				"Hydro Pump",
+				"Ancientpower",
+				"Blizzard"
+			],
+			"nature": "Gentle"
+		},
 		"Biker William": {
 			"ability": "Rough Skin",
 			"item": "Lum Berry",
@@ -26770,6 +27162,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Starmie": {
+		"Swimmer-F Connie": {
+			"ability": "Natural Cure",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Hydro Pump",
+				"Psycho Boost",
+				"Thunder",
+				"Blizzard"
+			],
+			"nature": "Careful"
+		},
 		"Cooltrainer Cerulean": {
 			"ability": "Natural Cure",
 			"item": "Lum Berry",
@@ -27803,6 +28215,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Swampert": {
+		"Secret Trainer Samu": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Muddy Water",
+				"Ancient Power",
+				"Earthquake",
+				"Howl"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Cerulean": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
@@ -28367,6 +28799,25 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Tentacruel": {
+		"Swimmer-F Anya": {
+			"ability": "Clear Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Surf",
+				"Gunk Shot",
+				"Ice Beam"
+			],
+			"nature": "Sassy"
+		},
 		"Biker Steering": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
@@ -31312,6 +31763,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Whiscash": {
+		"Swimmer-F Alice": {
+			"ability": "Oblivious",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Muddy Water",
+				"Earthquake",
+				"Hidden Power Flying",
+				"Thunderbolt"
+			],
+			"nature": "Timid"
+		},
 		"Biker Jaren": {
 			"ability": "Oblivious",
 			"item": "Lum Berry",
