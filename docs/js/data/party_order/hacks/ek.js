@@ -15,7 +15,8 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Jolteon",
 		"Roselia",
 		"Altaria",
-		"Blastoise"
+		"Blastoise",
+		"Lapras"
 	],
 	"Pokemaniac Cray": [
 		"Zangoose"
@@ -626,7 +627,8 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Miltank",
 		"Jynx",
 		"Lanturn",
-		"Wailord"
+		"Wailord",
+		"Lapras"
 	],
 	"Fisherman Wade": [
 		"Scyther",

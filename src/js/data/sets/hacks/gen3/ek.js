@@ -1111,7 +1111,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 74,
 			"moves": [
 				"Draco Meteor",
 				"Blizzard",
@@ -2796,7 +2796,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 74,
 			"moves": [
 				"Hydro Pump",
 				"Ice Beam",
@@ -7136,7 +7136,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 73,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -13005,7 +13005,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 74,
 			"moves": [
 				"Thunderbolt",
 				"Tail Glow",
@@ -14758,6 +14758,43 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Lapras": {
+		"Swimmer-F Ruka": {
+			"ability": "Shell Armor",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 74,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Psychic",
+				"Earthquake"
+			],
+			"nature": "Calm"
+		},
+		"Fisherman Claude": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 77,
+			"moves": [
+				"Sheer Cold"
+			],
+			"nature": "Naughty"
+		},
 		"Elite Four Lorelei": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
@@ -18162,7 +18199,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 74,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -23138,7 +23175,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 74,
 			"moves": [
 				"Gunk Shot",
 				"Leaf Blade",

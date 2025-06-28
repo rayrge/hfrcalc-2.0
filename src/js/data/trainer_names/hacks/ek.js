@@ -253,12 +253,15 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	// Route 20
 	"Swimmer-F Melissa",
 	"Picnicker Missy",
+	"Swimmer-M Dean",
+	"Bird Keeper Roger",
+	"Swimmer-F Nora",
 	"Swimmer-F Shirley",
 	"Picnicker Irene",
 	"Swimmer-F Tiffany",
-	"Swimmer-F Nora",
-	"Bird Keeper Roger",
-	"Swimmer-M Dean",
+	
+	
+	
 
 	// Pokemon Mansion
 	"Youngster Johnson",
